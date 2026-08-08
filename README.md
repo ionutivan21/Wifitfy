@@ -59,7 +59,7 @@ Sunt bine venit toate contribuțiile! Pentru a contribui:
 
 ## 📝 Licență
 
-Acest proiect este disponibil sub licența [INSERT LICENSE HERE].
+Acest proiect este disponibil sub licența [LICENSE MIT.
 
 ## 📧 Contact
 
